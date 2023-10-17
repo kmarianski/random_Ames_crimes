@@ -1,376 +1,376 @@
 Neighborhood,Year,CrimeType,Incidents,Latitude,Longitude
-Bloomington Heights,2006,Burglary,60,41.488597999999996,-93.71577304
-Bloomington Heights,2006,Assault,30,41.488597999999996,-93.71577304
-Bloomington Heights,2006,Vandalism,63,41.488597999999996,-93.71577304
-Bloomington Heights,2007,Burglary,63,41.488597999999996,-93.71577304
-Bloomington Heights,2007,Assault,35,41.488597999999996,-93.71577304
-Bloomington Heights,2007,Vandalism,55,41.488597999999996,-93.71577304
-Bloomington Heights,2008,Burglary,49,41.488597999999996,-93.71577304
-Bloomington Heights,2008,Assault,34,41.488597999999996,-93.71577304
-Bloomington Heights,2008,Vandalism,74,41.488597999999996,-93.71577304
-Bloomington Heights,2009,Burglary,56,41.488597999999996,-93.71577304
-Bloomington Heights,2009,Assault,44,41.488597999999996,-93.71577304
-Bloomington Heights,2009,Vandalism,79,41.488597999999996,-93.71577304
-Bloomington Heights,2010,Burglary,68,41.488597999999996,-93.71577304
-Bloomington Heights,2010,Assault,36,41.488597999999996,-93.71577304
-Bloomington Heights,2010,Vandalism,58,41.488597999999996,-93.71577304
-Bluestem,2006,Burglary,62,42.5431661,-96.4695962
-Bluestem,2006,Assault,51,42.5431661,-96.4695962
-Bluestem,2006,Vandalism,89,42.5431661,-96.4695962
-Bluestem,2007,Burglary,77,42.5431661,-96.4695962
-Bluestem,2007,Assault,48,42.5431661,-96.4695962
-Bluestem,2007,Vandalism,79,42.5431661,-96.4695962
-Bluestem,2008,Burglary,81,42.5431661,-96.4695962
-Bluestem,2008,Assault,48,42.5431661,-96.4695962
-Bluestem,2008,Vandalism,92,42.5431661,-96.4695962
-Bluestem,2009,Burglary,64,42.5431661,-96.4695962
-Bluestem,2009,Assault,54,42.5431661,-96.4695962
-Bluestem,2009,Vandalism,84,42.5431661,-96.4695962
-Bluestem,2010,Burglary,79,42.5431661,-96.4695962
-Bluestem,2010,Assault,51,42.5431661,-96.4695962
-Bluestem,2010,Vandalism,91,42.5431661,-96.4695962
-Briardale,2006,Burglary,28,42.052277000000004,-93.62837264
-Briardale,2006,Assault,16,42.052277000000004,-93.62837264
-Briardale,2006,Vandalism,35,42.052277000000004,-93.62837264
-Briardale,2007,Burglary,27,42.052277000000004,-93.62837264
-Briardale,2007,Assault,23,42.052277000000004,-93.62837264
-Briardale,2007,Vandalism,35,42.052277000000004,-93.62837264
-Briardale,2008,Burglary,24,42.052277000000004,-93.62837264
-Briardale,2008,Assault,19,42.052277000000004,-93.62837264
-Briardale,2008,Vandalism,29,42.052277000000004,-93.62837264
-Briardale,2009,Burglary,32,42.052277000000004,-93.62837264
-Briardale,2009,Assault,25,42.052277000000004,-93.62837264
-Briardale,2009,Vandalism,35,42.052277000000004,-93.62837264
-Briardale,2010,Burglary,34,42.052277000000004,-93.62837264
-Briardale,2010,Assault,19,42.052277000000004,-93.62837264
-Briardale,2010,Vandalism,40,42.052277000000004,-93.62837264
-Brookside,2006,Burglary,61,41.8340365,-90.2348739
-Brookside,2006,Assault,44,41.8340365,-90.2348739
-Brookside,2006,Vandalism,76,41.8340365,-90.2348739
-Brookside,2007,Burglary,65,41.8340365,-90.2348739
-Brookside,2007,Assault,54,41.8340365,-90.2348739
-Brookside,2007,Vandalism,74,41.8340365,-90.2348739
-Brookside,2008,Burglary,60,41.8340365,-90.2348739
-Brookside,2008,Assault,50,41.8340365,-90.2348739
-Brookside,2008,Vandalism,86,41.8340365,-90.2348739
-Brookside,2009,Burglary,64,41.8340365,-90.2348739
-Brookside,2009,Assault,47,41.8340365,-90.2348739
-Brookside,2009,Vandalism,87,41.8340365,-90.2348739
-Brookside,2010,Burglary,73,41.8340365,-90.2348739
-Brookside,2010,Assault,47,41.8340365,-90.2348739
-Brookside,2010,Vandalism,100,41.8340365,-90.2348739
-Clear Creek,2006,Burglary,34,41.7024364,-91.6997132
-Clear Creek,2006,Assault,32,41.7024364,-91.6997132
-Clear Creek,2006,Vandalism,38,41.7024364,-91.6997132
-Clear Creek,2007,Burglary,33,41.7024364,-91.6997132
-Clear Creek,2007,Assault,26,41.7024364,-91.6997132
-Clear Creek,2007,Vandalism,55,41.7024364,-91.6997132
-Clear Creek,2008,Burglary,37,41.7024364,-91.6997132
-Clear Creek,2008,Assault,24,41.7024364,-91.6997132
-Clear Creek,2008,Vandalism,41,41.7024364,-91.6997132
-Clear Creek,2009,Burglary,37,41.7024364,-91.6997132
-Clear Creek,2009,Assault,25,41.7024364,-91.6997132
-Clear Creek,2009,Vandalism,47,41.7024364,-91.6997132
-Clear Creek,2010,Burglary,53,41.7024364,-91.6997132
-Clear Creek,2010,Assault,34,41.7024364,-91.6997132
-Clear Creek,2010,Vandalism,48,41.7024364,-91.6997132
-College Creek,2006,Burglary,58,42.0152432,-93.6709767
-College Creek,2006,Assault,59,42.0152432,-93.6709767
-College Creek,2006,Vandalism,85,42.0152432,-93.6709767
-College Creek,2007,Burglary,82,42.0152432,-93.6709767
-College Creek,2007,Assault,51,42.0152432,-93.6709767
-College Creek,2007,Vandalism,86,42.0152432,-93.6709767
-College Creek,2008,Burglary,79,42.0152432,-93.6709767
-College Creek,2008,Assault,55,42.0152432,-93.6709767
-College Creek,2008,Vandalism,82,42.0152432,-93.6709767
-College Creek,2009,Burglary,75,42.0152432,-93.6709767
-College Creek,2009,Assault,68,42.0152432,-93.6709767
-College Creek,2009,Vandalism,84,42.0152432,-93.6709767
-College Creek,2010,Burglary,89,42.0152432,-93.6709767
-College Creek,2010,Assault,54,42.0152432,-93.6709767
-College Creek,2010,Vandalism,94,42.0152432,-93.6709767
-Crawford,2006,Burglary,49,42.020579,-95.3811884
-Crawford,2006,Assault,48,42.020579,-95.3811884
-Crawford,2006,Vandalism,64,42.020579,-95.3811884
-Crawford,2007,Burglary,51,42.020579,-95.3811884
-Crawford,2007,Assault,39,42.020579,-95.3811884
-Crawford,2007,Vandalism,73,42.020579,-95.3811884
-Crawford,2008,Burglary,79,42.020579,-95.3811884
-Crawford,2008,Assault,53,42.020579,-95.3811884
-Crawford,2008,Vandalism,77,42.020579,-95.3811884
-Crawford,2009,Burglary,73,42.020579,-95.3811884
-Crawford,2009,Assault,51,42.020579,-95.3811884
-Crawford,2009,Vandalism,86,42.020579,-95.3811884
-Crawford,2010,Burglary,65,42.020579,-95.3811884
-Crawford,2010,Assault,50,42.020579,-95.3811884
-Crawford,2010,Vandalism,89,42.020579,-95.3811884
-Edwards,2006,Burglary,46,41.0762617,-91.06018566
-Edwards,2006,Assault,42,41.0762617,-91.06018566
-Edwards,2006,Vandalism,63,41.0762617,-91.06018566
-Edwards,2007,Burglary,63,41.0762617,-91.06018566
-Edwards,2007,Assault,44,41.0762617,-91.06018566
-Edwards,2007,Vandalism,76,41.0762617,-91.06018566
-Edwards,2008,Burglary,63,41.0762617,-91.06018566
-Edwards,2008,Assault,44,41.0762617,-91.06018566
-Edwards,2008,Vandalism,79,41.0762617,-91.06018566
-Edwards,2009,Burglary,52,41.0762617,-91.06018566
-Edwards,2009,Assault,44,41.0762617,-91.06018566
-Edwards,2009,Vandalism,83,41.0762617,-91.06018566
-Edwards,2010,Burglary,57,41.0762617,-91.06018566
-Edwards,2010,Assault,46,41.0762617,-91.06018566
-Edwards,2010,Vandalism,61,41.0762617,-91.06018566
-Gilbert,2006,Burglary,44,42.1069288,-93.6496628
-Gilbert,2006,Assault,32,42.1069288,-93.6496628
-Gilbert,2006,Vandalism,72,42.1069288,-93.6496628
-Gilbert,2007,Burglary,49,42.1069288,-93.6496628
-Gilbert,2007,Assault,45,42.1069288,-93.6496628
-Gilbert,2007,Vandalism,61,42.1069288,-93.6496628
-Gilbert,2008,Burglary,67,42.1069288,-93.6496628
-Gilbert,2008,Assault,41,42.1069288,-93.6496628
-Gilbert,2008,Vandalism,72,42.1069288,-93.6496628
-Gilbert,2009,Burglary,60,42.1069288,-93.6496628
-Gilbert,2009,Assault,34,42.1069288,-93.6496628
-Gilbert,2009,Vandalism,70,42.1069288,-93.6496628
-Gilbert,2010,Burglary,54,42.1069288,-93.6496628
-Gilbert,2010,Assault,47,42.1069288,-93.6496628
-Gilbert,2010,Vandalism,77,42.1069288,-93.6496628
-Iowa DOT and Rail Road,2006,Burglary,51,,
-Iowa DOT and Rail Road,2006,Assault,35,,
-Iowa DOT and Rail Road,2006,Vandalism,43,,
-Iowa DOT and Rail Road,2007,Burglary,47,,
-Iowa DOT and Rail Road,2007,Assault,33,,
-Iowa DOT and Rail Road,2007,Vandalism,51,,
-Iowa DOT and Rail Road,2008,Burglary,46,,
-Iowa DOT and Rail Road,2008,Assault,37,,
-Iowa DOT and Rail Road,2008,Vandalism,68,,
-Iowa DOT and Rail Road,2009,Burglary,59,,
-Iowa DOT and Rail Road,2009,Assault,34,,
-Iowa DOT and Rail Road,2009,Vandalism,58,,
-Iowa DOT and Rail Road,2010,Burglary,45,,
-Iowa DOT and Rail Road,2010,Assault,37,,
-Iowa DOT and Rail Road,2010,Vandalism,70,,
-Meadow Village,2006,Burglary,36,41.99258396,-93.6027198
-Meadow Village,2006,Assault,28,41.99258396,-93.6027198
-Meadow Village,2006,Vandalism,46,41.99258396,-93.6027198
-Meadow Village,2007,Burglary,41,41.99258396,-93.6027198
-Meadow Village,2007,Assault,20,41.99258396,-93.6027198
-Meadow Village,2007,Vandalism,34,41.99258396,-93.6027198
-Meadow Village,2008,Burglary,38,41.99258396,-93.6027198
-Meadow Village,2008,Assault,24,41.99258396,-93.6027198
-Meadow Village,2008,Vandalism,49,41.99258396,-93.6027198
-Meadow Village,2009,Burglary,46,41.99258396,-93.6027198
-Meadow Village,2009,Assault,24,41.99258396,-93.6027198
-Meadow Village,2009,Vandalism,52,41.99258396,-93.6027198
-Meadow Village,2010,Burglary,43,41.99258396,-93.6027198
-Meadow Village,2010,Assault,26,41.99258396,-93.6027198
-Meadow Village,2010,Vandalism,45,41.99258396,-93.6027198
-Mitchell,2006,Burglary,29,43.342033,-92.7840209
-Mitchell,2006,Assault,17,43.342033,-92.7840209
-Mitchell,2006,Vandalism,37,43.342033,-92.7840209
-Mitchell,2007,Burglary,26,43.342033,-92.7840209
-Mitchell,2007,Assault,19,43.342033,-92.7840209
-Mitchell,2007,Vandalism,37,43.342033,-92.7840209
-Mitchell,2008,Burglary,29,43.342033,-92.7840209
-Mitchell,2008,Assault,22,43.342033,-92.7840209
-Mitchell,2008,Vandalism,34,43.342033,-92.7840209
-Mitchell,2009,Burglary,33,43.342033,-92.7840209
-Mitchell,2009,Assault,21,43.342033,-92.7840209
-Mitchell,2009,Vandalism,33,43.342033,-92.7840209
-Mitchell,2010,Burglary,32,43.342033,-92.7840209
-Mitchell,2010,Assault,23,43.342033,-92.7840209
-Mitchell,2010,Vandalism,39,43.342033,-92.7840209
-North Ames,2006,Burglary,66,42.8238,-95.799395
-North Ames,2006,Assault,47,42.8238,-95.799395
-North Ames,2006,Vandalism,78,42.8238,-95.799395
-North Ames,2007,Burglary,62,42.8238,-95.799395
-North Ames,2007,Assault,48,42.8238,-95.799395
-North Ames,2007,Vandalism,75,42.8238,-95.799395
-North Ames,2008,Burglary,68,42.8238,-95.799395
-North Ames,2008,Assault,46,42.8238,-95.799395
-North Ames,2008,Vandalism,76,42.8238,-95.799395
-North Ames,2009,Burglary,70,42.8238,-95.799395
-North Ames,2009,Assault,44,42.8238,-95.799395
-North Ames,2009,Vandalism,81,42.8238,-95.799395
-North Ames,2010,Burglary,70,42.8238,-95.799395
-North Ames,2010,Assault,43,42.8238,-95.799395
-North Ames,2010,Vandalism,83,42.8238,-95.799395
-Northridge,2006,Burglary,61,41.6766164,-91.34340281
-Northridge,2006,Assault,41,41.6766164,-91.34340281
-Northridge,2006,Vandalism,68,41.6766164,-91.34340281
-Northridge,2007,Burglary,68,41.6766164,-91.34340281
-Northridge,2007,Assault,45,41.6766164,-91.34340281
-Northridge,2007,Vandalism,65,41.6766164,-91.34340281
-Northridge,2008,Burglary,61,41.6766164,-91.34340281
-Northridge,2008,Assault,41,41.6766164,-91.34340281
-Northridge,2008,Vandalism,64,41.6766164,-91.34340281
-Northridge,2009,Burglary,59,41.6766164,-91.34340281
-Northridge,2009,Assault,38,41.6766164,-91.34340281
-Northridge,2009,Vandalism,63,41.6766164,-91.34340281
-Northridge,2010,Burglary,66,41.6766164,-91.34340281
-Northridge,2010,Assault,54,41.6766164,-91.34340281
-Northridge,2010,Vandalism,92,41.6766164,-91.34340281
-Northpark Villa,2006,Burglary,44,41.9931415,-93.64361499
-Northpark Villa,2006,Assault,32,41.9931415,-93.64361499
-Northpark Villa,2006,Vandalism,55,41.9931415,-93.64361499
-Northpark Villa,2007,Burglary,56,41.9931415,-93.64361499
-Northpark Villa,2007,Assault,40,41.9931415,-93.64361499
-Northpark Villa,2007,Vandalism,80,41.9931415,-93.64361499
-Northpark Villa,2008,Burglary,64,41.9931415,-93.64361499
-Northpark Villa,2008,Assault,37,41.9931415,-93.64361499
-Northpark Villa,2008,Vandalism,85,41.9931415,-93.64361499
-Northpark Villa,2009,Burglary,55,41.9931415,-93.64361499
-Northpark Villa,2009,Assault,47,41.9931415,-93.64361499
-Northpark Villa,2009,Vandalism,60,41.9931415,-93.64361499
-Northpark Villa,2010,Burglary,57,41.9931415,-93.64361499
-Northpark Villa,2010,Assault,44,41.9931415,-93.64361499
-Northpark Villa,2010,Vandalism,62,41.9931415,-93.64361499
-Northridge Heights,2006,Burglary,62,42.0598105,-93.65479031
-Northridge Heights,2006,Assault,35,42.0598105,-93.65479031
-Northridge Heights,2006,Vandalism,64,42.0598105,-93.65479031
-Northridge Heights,2007,Burglary,59,42.0598105,-93.65479031
-Northridge Heights,2007,Assault,36,42.0598105,-93.65479031
-Northridge Heights,2007,Vandalism,61,42.0598105,-93.65479031
-Northridge Heights,2008,Burglary,60,42.0598105,-93.65479031
-Northridge Heights,2008,Assault,48,42.0598105,-93.65479031
-Northridge Heights,2008,Vandalism,76,42.0598105,-93.65479031
-Northridge Heights,2009,Burglary,63,42.0598105,-93.65479031
-Northridge Heights,2009,Assault,38,42.0598105,-93.65479031
-Northridge Heights,2009,Vandalism,69,42.0598105,-93.65479031
-Northridge Heights,2010,Burglary,74,42.0598105,-93.65479031
-Northridge Heights,2010,Assault,49,42.0598105,-93.65479031
-Northridge Heights,2010,Vandalism,62,42.0598105,-93.65479031
-Northwest Ames,2006,Burglary,32,,
-Northwest Ames,2006,Assault,18,,
-Northwest Ames,2006,Vandalism,30,,
-Northwest Ames,2007,Burglary,28,,
-Northwest Ames,2007,Assault,17,,
-Northwest Ames,2007,Vandalism,31,,
-Northwest Ames,2008,Burglary,30,,
-Northwest Ames,2008,Assault,20,,
-Northwest Ames,2008,Vandalism,35,,
-Northwest Ames,2009,Burglary,36,,
-Northwest Ames,2009,Assault,26,,
-Northwest Ames,2009,Vandalism,36,,
-Northwest Ames,2010,Burglary,27,,
-Northwest Ames,2010,Assault,26,,
-Northwest Ames,2010,Vandalism,47,,
-Old Town,2006,Burglary,24,43.3135752,-95.1441625
-Old Town,2006,Assault,21,43.3135752,-95.1441625
-Old Town,2006,Vandalism,33,43.3135752,-95.1441625
-Old Town,2007,Burglary,29,43.3135752,-95.1441625
-Old Town,2007,Assault,19,43.3135752,-95.1441625
-Old Town,2007,Vandalism,38,43.3135752,-95.1441625
-Old Town,2008,Burglary,31,43.3135752,-95.1441625
-Old Town,2008,Assault,19,43.3135752,-95.1441625
-Old Town,2008,Vandalism,33,43.3135752,-95.1441625
-Old Town,2009,Burglary,36,43.3135752,-95.1441625
-Old Town,2009,Assault,17,43.3135752,-95.1441625
-Old Town,2009,Vandalism,33,43.3135752,-95.1441625
-Old Town,2010,Burglary,29,43.3135752,-95.1441625
-Old Town,2010,Assault,18,43.3135752,-95.1441625
-Old Town,2010,Vandalism,42,43.3135752,-95.1441625
-South & West of Iowa State University,2006,Burglary,31,,
-South & West of Iowa State University,2006,Assault,26,,
-South & West of Iowa State University,2006,Vandalism,32,,
-South & West of Iowa State University,2007,Burglary,32,,
-South & West of Iowa State University,2007,Assault,26,,
-South & West of Iowa State University,2007,Vandalism,33,,
-South & West of Iowa State University,2008,Burglary,37,,
-South & West of Iowa State University,2008,Assault,24,,
-South & West of Iowa State University,2008,Vandalism,38,,
-South & West of Iowa State University,2009,Burglary,39,,
-South & West of Iowa State University,2009,Assault,28,,
-South & West of Iowa State University,2009,Vandalism,52,,
-South & West of Iowa State University,2010,Burglary,34,,
-South & West of Iowa State University,2010,Assault,31,,
-South & West of Iowa State University,2010,Vandalism,53,,
-Sawyer,2006,Burglary,31,40.696428,-91.3551517
-Sawyer,2006,Assault,28,40.696428,-91.3551517
-Sawyer,2006,Vandalism,43,40.696428,-91.3551517
-Sawyer,2007,Burglary,32,40.696428,-91.3551517
-Sawyer,2007,Assault,24,40.696428,-91.3551517
-Sawyer,2007,Vandalism,43,40.696428,-91.3551517
-Sawyer,2008,Burglary,37,40.696428,-91.3551517
-Sawyer,2008,Assault,25,40.696428,-91.3551517
-Sawyer,2008,Vandalism,47,40.696428,-91.3551517
-Sawyer,2009,Burglary,35,40.696428,-91.3551517
-Sawyer,2009,Assault,28,40.696428,-91.3551517
-Sawyer,2009,Vandalism,48,40.696428,-91.3551517
-Sawyer,2010,Burglary,46,40.696428,-91.3551517
-Sawyer,2010,Assault,30,40.696428,-91.3551517
-Sawyer,2010,Vandalism,49,40.696428,-91.3551517
-Sawyer West,2006,Burglary,31,,
-Sawyer West,2006,Assault,23,,
-Sawyer West,2006,Vandalism,47,,
-Sawyer West,2007,Burglary,39,,
-Sawyer West,2007,Assault,21,,
-Sawyer West,2007,Vandalism,51,,
-Sawyer West,2008,Burglary,35,,
-Sawyer West,2008,Assault,23,,
-Sawyer West,2008,Vandalism,53,,
-Sawyer West,2009,Burglary,34,,
-Sawyer West,2009,Assault,31,,
-Sawyer West,2009,Vandalism,50,,
-Sawyer West,2010,Burglary,49,,
-Sawyer West,2010,Assault,28,,
-Sawyer West,2010,Vandalism,59,,
-Somerset,2006,Burglary,53,41.5232108,-93.6093819
-Somerset,2006,Assault,41,41.5232108,-93.6093819
-Somerset,2006,Vandalism,64,41.5232108,-93.6093819
-Somerset,2007,Burglary,79,41.5232108,-93.6093819
-Somerset,2007,Assault,46,41.5232108,-93.6093819
-Somerset,2007,Vandalism,79,41.5232108,-93.6093819
-Somerset,2008,Burglary,60,41.5232108,-93.6093819
-Somerset,2008,Assault,53,41.5232108,-93.6093819
-Somerset,2008,Vandalism,89,41.5232108,-93.6093819
-Somerset,2009,Burglary,61,41.5232108,-93.6093819
-Somerset,2009,Assault,62,41.5232108,-93.6093819
-Somerset,2009,Vandalism,81,41.5232108,-93.6093819
-Somerset,2010,Burglary,90,41.5232108,-93.6093819
-Somerset,2010,Assault,63,41.5232108,-93.6093819
-Somerset,2010,Vandalism,82,41.5232108,-93.6093819
-Stone Brook,2006,Burglary,30,42.05917445,-93.63272992
-Stone Brook,2006,Assault,20,42.05917445,-93.63272992
-Stone Brook,2006,Vandalism,37,42.05917445,-93.63272992
-Stone Brook,2007,Burglary,32,42.05917445,-93.63272992
-Stone Brook,2007,Assault,23,42.05917445,-93.63272992
-Stone Brook,2007,Vandalism,36,42.05917445,-93.63272992
-Stone Brook,2008,Burglary,27,42.05917445,-93.63272992
-Stone Brook,2008,Assault,24,42.05917445,-93.63272992
-Stone Brook,2008,Vandalism,33,42.05917445,-93.63272992
-Stone Brook,2009,Burglary,32,42.05917445,-93.63272992
-Stone Brook,2009,Assault,22,42.05917445,-93.63272992
-Stone Brook,2009,Vandalism,39,42.05917445,-93.63272992
-Stone Brook,2010,Burglary,37,42.05917445,-93.63272992
-Stone Brook,2010,Assault,21,42.05917445,-93.63272992
-Stone Brook,2010,Vandalism,35,42.05917445,-93.63272992
-Timberland,2006,Burglary,56,40.8243018,-92.7468858
-Timberland,2006,Assault,39,40.8243018,-92.7468858
-Timberland,2006,Vandalism,63,40.8243018,-92.7468858
-Timberland,2007,Burglary,43,40.8243018,-92.7468858
-Timberland,2007,Assault,41,40.8243018,-92.7468858
-Timberland,2007,Vandalism,55,40.8243018,-92.7468858
-Timberland,2008,Burglary,67,40.8243018,-92.7468858
-Timberland,2008,Assault,32,40.8243018,-92.7468858
-Timberland,2008,Vandalism,80,40.8243018,-92.7468858
-Timberland,2009,Burglary,69,40.8243018,-92.7468858
-Timberland,2009,Assault,36,40.8243018,-92.7468858
-Timberland,2009,Vandalism,65,40.8243018,-92.7468858
-Timberland,2010,Burglary,70,40.8243018,-92.7468858
-Timberland,2010,Assault,35,40.8243018,-92.7468858
-Timberland,2010,Vandalism,86,40.8243018,-92.7468858
-Veenker,2006,Burglary,49,42.03862765,-93.6507766
-Veenker,2006,Assault,43,42.03862765,-93.6507766
-Veenker,2006,Vandalism,62,42.03862765,-93.6507766
-Veenker,2007,Burglary,57,42.03862765,-93.6507766
-Veenker,2007,Assault,42,42.03862765,-93.6507766
-Veenker,2007,Vandalism,62,42.03862765,-93.6507766
-Veenker,2008,Burglary,62,42.03862765,-93.6507766
-Veenker,2008,Assault,33,42.03862765,-93.6507766
-Veenker,2008,Vandalism,73,42.03862765,-93.6507766
-Veenker,2009,Burglary,53,42.03862765,-93.6507766
-Veenker,2009,Assault,41,42.03862765,-93.6507766
-Veenker,2009,Vandalism,60,42.03862765,-93.6507766
-Veenker,2010,Burglary,62,42.03862765,-93.6507766
-Veenker,2010,Assault,34,42.03862765,-93.6507766
-Veenker,2010,Vandalism,79,42.03862765,-93.6507766
+Bloomington Heights,2018,Burglary,105,41.488597999999996,-93.71577303859318
+Bloomington Heights,2018,Assault,67,41.488597999999996,-93.71577303859318
+Bloomington Heights,2018,Vandalism,123,41.488597999999996,-93.71577303859318
+Bloomington Heights,2019,Burglary,138,41.488597999999996,-93.71577303859318
+Bloomington Heights,2019,Assault,101,41.488597999999996,-93.71577303859318
+Bloomington Heights,2019,Vandalism,160,41.488597999999996,-93.71577303859318
+Bloomington Heights,2020,Burglary,139,41.488597999999996,-93.71577303859318
+Bloomington Heights,2020,Assault,78,41.488597999999996,-93.71577303859318
+Bloomington Heights,2020,Vandalism,145,41.488597999999996,-93.71577303859318
+Bloomington Heights,2021,Burglary,115,41.488597999999996,-93.71577303859318
+Bloomington Heights,2021,Assault,83,41.488597999999996,-93.71577303859318
+Bloomington Heights,2021,Vandalism,130,41.488597999999996,-93.71577303859318
+Bloomington Heights,2022,Burglary,149,41.488597999999996,-93.71577303859318
+Bloomington Heights,2022,Assault,108,41.488597999999996,-93.71577303859318
+Bloomington Heights,2022,Vandalism,173,41.488597999999996,-93.71577303859318
+Bluestem,2018,Burglary,103,42.5431661,-96.4695962
+Bluestem,2018,Assault,68,42.5431661,-96.4695962
+Bluestem,2018,Vandalism,87,42.5431661,-96.4695962
+Bluestem,2019,Burglary,77,42.5431661,-96.4695962
+Bluestem,2019,Assault,52,42.5431661,-96.4695962
+Bluestem,2019,Vandalism,115,42.5431661,-96.4695962
+Bluestem,2020,Burglary,82,42.5431661,-96.4695962
+Bluestem,2020,Assault,60,42.5431661,-96.4695962
+Bluestem,2020,Vandalism,125,42.5431661,-96.4695962
+Bluestem,2021,Burglary,104,42.5431661,-96.4695962
+Bluestem,2021,Assault,57,42.5431661,-96.4695962
+Bluestem,2021,Vandalism,123,42.5431661,-96.4695962
+Bluestem,2022,Burglary,79,42.5431661,-96.4695962
+Bluestem,2022,Assault,65,42.5431661,-96.4695962
+Bluestem,2022,Vandalism,109,42.5431661,-96.4695962
+Briardale,2018,Burglary,93,42.052277000000004,-93.62837263648807
+Briardale,2018,Assault,63,42.052277000000004,-93.62837263648807
+Briardale,2018,Vandalism,128,42.052277000000004,-93.62837263648807
+Briardale,2019,Burglary,116,42.052277000000004,-93.62837263648807
+Briardale,2019,Assault,76,42.052277000000004,-93.62837263648807
+Briardale,2019,Vandalism,96,42.052277000000004,-93.62837263648807
+Briardale,2020,Burglary,110,42.052277000000004,-93.62837263648807
+Briardale,2020,Assault,62,42.052277000000004,-93.62837263648807
+Briardale,2020,Vandalism,103,42.052277000000004,-93.62837263648807
+Briardale,2021,Burglary,112,42.052277000000004,-93.62837263648807
+Briardale,2021,Assault,83,42.052277000000004,-93.62837263648807
+Briardale,2021,Vandalism,120,42.052277000000004,-93.62837263648807
+Briardale,2022,Burglary,108,42.052277000000004,-93.62837263648807
+Briardale,2022,Assault,81,42.052277000000004,-93.62837263648807
+Briardale,2022,Vandalism,116,42.052277000000004,-93.62837263648807
+Brookside,2018,Burglary,80,41.8340365,-90.2348739
+Brookside,2018,Assault,57,41.8340365,-90.2348739
+Brookside,2018,Vandalism,78,41.8340365,-90.2348739
+Brookside,2019,Burglary,70,41.8340365,-90.2348739
+Brookside,2019,Assault,57,41.8340365,-90.2348739
+Brookside,2019,Vandalism,75,41.8340365,-90.2348739
+Brookside,2020,Burglary,83,41.8340365,-90.2348739
+Brookside,2020,Assault,58,41.8340365,-90.2348739
+Brookside,2020,Vandalism,94,41.8340365,-90.2348739
+Brookside,2021,Burglary,87,41.8340365,-90.2348739
+Brookside,2021,Assault,65,41.8340365,-90.2348739
+Brookside,2021,Vandalism,105,41.8340365,-90.2348739
+Brookside,2022,Burglary,82,41.8340365,-90.2348739
+Brookside,2022,Assault,65,41.8340365,-90.2348739
+Brookside,2022,Vandalism,93,41.8340365,-90.2348739
+Clear Creek,2018,Burglary,91,41.7024364,-91.6997132
+Clear Creek,2018,Assault,69,41.7024364,-91.6997132
+Clear Creek,2018,Vandalism,126,41.7024364,-91.6997132
+Clear Creek,2019,Burglary,110,41.7024364,-91.6997132
+Clear Creek,2019,Assault,71,41.7024364,-91.6997132
+Clear Creek,2019,Vandalism,108,41.7024364,-91.6997132
+Clear Creek,2020,Burglary,88,41.7024364,-91.6997132
+Clear Creek,2020,Assault,62,41.7024364,-91.6997132
+Clear Creek,2020,Vandalism,119,41.7024364,-91.6997132
+Clear Creek,2021,Burglary,88,41.7024364,-91.6997132
+Clear Creek,2021,Assault,75,41.7024364,-91.6997132
+Clear Creek,2021,Vandalism,126,41.7024364,-91.6997132
+Clear Creek,2022,Burglary,107,41.7024364,-91.6997132
+Clear Creek,2022,Assault,88,41.7024364,-91.6997132
+Clear Creek,2022,Vandalism,132,41.7024364,-91.6997132
+College Creek,2018,Burglary,55,42.0152432,-93.6709767
+College Creek,2018,Assault,35,42.0152432,-93.6709767
+College Creek,2018,Vandalism,51,42.0152432,-93.6709767
+College Creek,2019,Burglary,42,42.0152432,-93.6709767
+College Creek,2019,Assault,35,42.0152432,-93.6709767
+College Creek,2019,Vandalism,51,42.0152432,-93.6709767
+College Creek,2020,Burglary,61,42.0152432,-93.6709767
+College Creek,2020,Assault,40,42.0152432,-93.6709767
+College Creek,2020,Vandalism,57,42.0152432,-93.6709767
+College Creek,2021,Burglary,64,42.0152432,-93.6709767
+College Creek,2021,Assault,44,42.0152432,-93.6709767
+College Creek,2021,Vandalism,70,42.0152432,-93.6709767
+College Creek,2022,Burglary,62,42.0152432,-93.6709767
+College Creek,2022,Assault,44,42.0152432,-93.6709767
+College Creek,2022,Vandalism,73,42.0152432,-93.6709767
+Crawford,2018,Burglary,69,42.020579,-95.3811884
+Crawford,2018,Assault,41,42.020579,-95.3811884
+Crawford,2018,Vandalism,64,42.020579,-95.3811884
+Crawford,2019,Burglary,70,42.020579,-95.3811884
+Crawford,2019,Assault,57,42.020579,-95.3811884
+Crawford,2019,Vandalism,83,42.020579,-95.3811884
+Crawford,2020,Burglary,70,42.020579,-95.3811884
+Crawford,2020,Assault,54,42.020579,-95.3811884
+Crawford,2020,Vandalism,76,42.020579,-95.3811884
+Crawford,2021,Burglary,65,42.020579,-95.3811884
+Crawford,2021,Assault,44,42.020579,-95.3811884
+Crawford,2021,Vandalism,93,42.020579,-95.3811884
+Crawford,2022,Burglary,67,42.020579,-95.3811884
+Crawford,2022,Assault,46,42.020579,-95.3811884
+Crawford,2022,Vandalism,92,42.020579,-95.3811884
+Edwards,2018,Burglary,62,41.0762617,-91.06018565518546
+Edwards,2018,Assault,38,41.0762617,-91.06018565518546
+Edwards,2018,Vandalism,86,41.0762617,-91.06018565518546
+Edwards,2019,Burglary,55,41.0762617,-91.06018565518546
+Edwards,2019,Assault,55,41.0762617,-91.06018565518546
+Edwards,2019,Vandalism,82,41.0762617,-91.06018565518546
+Edwards,2020,Burglary,83,41.0762617,-91.06018565518546
+Edwards,2020,Assault,47,41.0762617,-91.06018565518546
+Edwards,2020,Vandalism,94,41.0762617,-91.06018565518546
+Edwards,2021,Burglary,65,41.0762617,-91.06018565518546
+Edwards,2021,Assault,42,41.0762617,-91.06018565518546
+Edwards,2021,Vandalism,103,41.0762617,-91.06018565518546
+Edwards,2022,Burglary,63,41.0762617,-91.06018565518546
+Edwards,2022,Assault,46,41.0762617,-91.06018565518546
+Edwards,2022,Vandalism,107,41.0762617,-91.06018565518546
+Gilbert,2018,Burglary,80,42.1069288,-93.6496628
+Gilbert,2018,Assault,56,42.1069288,-93.6496628
+Gilbert,2018,Vandalism,107,42.1069288,-93.6496628
+Gilbert,2019,Burglary,82,42.1069288,-93.6496628
+Gilbert,2019,Assault,47,42.1069288,-93.6496628
+Gilbert,2019,Vandalism,117,42.1069288,-93.6496628
+Gilbert,2020,Burglary,96,42.1069288,-93.6496628
+Gilbert,2020,Assault,58,42.1069288,-93.6496628
+Gilbert,2020,Vandalism,115,42.1069288,-93.6496628
+Gilbert,2021,Burglary,89,42.1069288,-93.6496628
+Gilbert,2021,Assault,64,42.1069288,-93.6496628
+Gilbert,2021,Vandalism,110,42.1069288,-93.6496628
+Gilbert,2022,Burglary,93,42.1069288,-93.6496628
+Gilbert,2022,Assault,73,42.1069288,-93.6496628
+Gilbert,2022,Vandalism,106,42.1069288,-93.6496628
+Iowa DOT and Rail Road,2018,Burglary,45,,
+Iowa DOT and Rail Road,2018,Assault,29,,
+Iowa DOT and Rail Road,2018,Vandalism,43,,
+Iowa DOT and Rail Road,2019,Burglary,43,,
+Iowa DOT and Rail Road,2019,Assault,33,,
+Iowa DOT and Rail Road,2019,Vandalism,56,,
+Iowa DOT and Rail Road,2020,Burglary,46,,
+Iowa DOT and Rail Road,2020,Assault,29,,
+Iowa DOT and Rail Road,2020,Vandalism,46,,
+Iowa DOT and Rail Road,2021,Burglary,43,,
+Iowa DOT and Rail Road,2021,Assault,36,,
+Iowa DOT and Rail Road,2021,Vandalism,61,,
+Iowa DOT and Rail Road,2022,Burglary,44,,
+Iowa DOT and Rail Road,2022,Assault,33,,
+Iowa DOT and Rail Road,2022,Vandalism,51,,
+Meadow Village,2018,Burglary,48,,
+Meadow Village,2018,Assault,41,,
+Meadow Village,2018,Vandalism,71,,
+Meadow Village,2019,Burglary,67,,
+Meadow Village,2019,Assault,48,,
+Meadow Village,2019,Vandalism,74,,
+Meadow Village,2020,Burglary,58,,
+Meadow Village,2020,Assault,36,,
+Meadow Village,2020,Vandalism,69,,
+Meadow Village,2021,Burglary,55,,
+Meadow Village,2021,Assault,49,,
+Meadow Village,2021,Vandalism,66,,
+Meadow Village,2022,Burglary,72,,
+Meadow Village,2022,Assault,42,,
+Meadow Village,2022,Vandalism,83,,
+Mitchell,2018,Burglary,100,43.342033,-92.7840209
+Mitchell,2018,Assault,71,43.342033,-92.7840209
+Mitchell,2018,Vandalism,117,43.342033,-92.7840209
+Mitchell,2019,Burglary,101,43.342033,-92.7840209
+Mitchell,2019,Assault,73,43.342033,-92.7840209
+Mitchell,2019,Vandalism,124,43.342033,-92.7840209
+Mitchell,2020,Burglary,99,43.342033,-92.7840209
+Mitchell,2020,Assault,59,43.342033,-92.7840209
+Mitchell,2020,Vandalism,103,43.342033,-92.7840209
+Mitchell,2021,Burglary,101,43.342033,-92.7840209
+Mitchell,2021,Assault,84,43.342033,-92.7840209
+Mitchell,2021,Vandalism,104,43.342033,-92.7840209
+Mitchell,2022,Burglary,97,43.342033,-92.7840209
+Mitchell,2022,Assault,61,43.342033,-92.7840209
+Mitchell,2022,Vandalism,112,43.342033,-92.7840209
+North Ames,2018,Burglary,64,42.8238,-95.799395
+North Ames,2018,Assault,43,42.8238,-95.799395
+North Ames,2018,Vandalism,78,42.8238,-95.799395
+North Ames,2019,Burglary,61,42.8238,-95.799395
+North Ames,2019,Assault,60,42.8238,-95.799395
+North Ames,2019,Vandalism,87,42.8238,-95.799395
+North Ames,2020,Burglary,81,42.8238,-95.799395
+North Ames,2020,Assault,45,42.8238,-95.799395
+North Ames,2020,Vandalism,73,42.8238,-95.799395
+North Ames,2021,Burglary,71,42.8238,-95.799395
+North Ames,2021,Assault,63,42.8238,-95.799395
+North Ames,2021,Vandalism,108,42.8238,-95.799395
+North Ames,2022,Burglary,71,42.8238,-95.799395
+North Ames,2022,Assault,49,42.8238,-95.799395
+North Ames,2022,Vandalism,92,42.8238,-95.799395
+Northridge,2018,Burglary,51,41.6766164,-91.34340281173637
+Northridge,2018,Assault,29,41.6766164,-91.34340281173637
+Northridge,2018,Vandalism,73,41.6766164,-91.34340281173637
+Northridge,2019,Burglary,53,41.6766164,-91.34340281173637
+Northridge,2019,Assault,43,41.6766164,-91.34340281173637
+Northridge,2019,Vandalism,61,41.6766164,-91.34340281173637
+Northridge,2020,Burglary,61,41.6766164,-91.34340281173637
+Northridge,2020,Assault,45,41.6766164,-91.34340281173637
+Northridge,2020,Vandalism,76,41.6766164,-91.34340281173637
+Northridge,2021,Burglary,51,41.6766164,-91.34340281173637
+Northridge,2021,Assault,31,41.6766164,-91.34340281173637
+Northridge,2021,Vandalism,63,41.6766164,-91.34340281173637
+Northridge,2022,Burglary,66,41.6766164,-91.34340281173637
+Northridge,2022,Assault,40,41.6766164,-91.34340281173637
+Northridge,2022,Vandalism,63,41.6766164,-91.34340281173637
+Northpark Villa,2018,Burglary,76,,
+Northpark Villa,2018,Assault,52,,
+Northpark Villa,2018,Vandalism,65,,
+Northpark Villa,2019,Burglary,75,,
+Northpark Villa,2019,Assault,40,,
+Northpark Villa,2019,Vandalism,90,,
+Northpark Villa,2020,Burglary,74,,
+Northpark Villa,2020,Assault,52,,
+Northpark Villa,2020,Vandalism,93,,
+Northpark Villa,2021,Burglary,86,,
+Northpark Villa,2021,Assault,47,,
+Northpark Villa,2021,Vandalism,94,,
+Northpark Villa,2022,Burglary,63,,
+Northpark Villa,2022,Assault,51,,
+Northpark Villa,2022,Vandalism,82,,
+Northridge Heights,2018,Burglary,41,42.0598105,-93.65479031446547
+Northridge Heights,2018,Assault,30,42.0598105,-93.65479031446547
+Northridge Heights,2018,Vandalism,48,42.0598105,-93.65479031446547
+Northridge Heights,2019,Burglary,42,42.0598105,-93.65479031446547
+Northridge Heights,2019,Assault,34,42.0598105,-93.65479031446547
+Northridge Heights,2019,Vandalism,60,42.0598105,-93.65479031446547
+Northridge Heights,2020,Burglary,42,42.0598105,-93.65479031446547
+Northridge Heights,2020,Assault,30,42.0598105,-93.65479031446547
+Northridge Heights,2020,Vandalism,68,42.0598105,-93.65479031446547
+Northridge Heights,2021,Burglary,46,42.0598105,-93.65479031446547
+Northridge Heights,2021,Assault,38,42.0598105,-93.65479031446547
+Northridge Heights,2021,Vandalism,74,42.0598105,-93.65479031446547
+Northridge Heights,2022,Burglary,53,42.0598105,-93.65479031446547
+Northridge Heights,2022,Assault,35,42.0598105,-93.65479031446547
+Northridge Heights,2022,Vandalism,71,42.0598105,-93.65479031446547
+Northwest Ames,2018,Burglary,51,,
+Northwest Ames,2018,Assault,43,,
+Northwest Ames,2018,Vandalism,53,,
+Northwest Ames,2019,Burglary,47,,
+Northwest Ames,2019,Assault,34,,
+Northwest Ames,2019,Vandalism,52,,
+Northwest Ames,2020,Burglary,50,,
+Northwest Ames,2020,Assault,33,,
+Northwest Ames,2020,Vandalism,61,,
+Northwest Ames,2021,Burglary,55,,
+Northwest Ames,2021,Assault,46,,
+Northwest Ames,2021,Vandalism,63,,
+Northwest Ames,2022,Burglary,62,,
+Northwest Ames,2022,Assault,39,,
+Northwest Ames,2022,Vandalism,78,,
+Old Town,2018,Burglary,49,43.3135752,-95.1441625
+Old Town,2018,Assault,50,43.3135752,-95.1441625
+Old Town,2018,Vandalism,75,43.3135752,-95.1441625
+Old Town,2019,Burglary,75,43.3135752,-95.1441625
+Old Town,2019,Assault,52,43.3135752,-95.1441625
+Old Town,2019,Vandalism,85,43.3135752,-95.1441625
+Old Town,2020,Burglary,68,43.3135752,-95.1441625
+Old Town,2020,Assault,41,43.3135752,-95.1441625
+Old Town,2020,Vandalism,66,43.3135752,-95.1441625
+Old Town,2021,Burglary,61,43.3135752,-95.1441625
+Old Town,2021,Assault,46,43.3135752,-95.1441625
+Old Town,2021,Vandalism,65,43.3135752,-95.1441625
+Old Town,2022,Burglary,79,43.3135752,-95.1441625
+Old Town,2022,Assault,43,43.3135752,-95.1441625
+Old Town,2022,Vandalism,97,43.3135752,-95.1441625
+South & West of Iowa State University,2018,Burglary,56,,
+South & West of Iowa State University,2018,Assault,41,,
+South & West of Iowa State University,2018,Vandalism,60,,
+South & West of Iowa State University,2019,Burglary,59,,
+South & West of Iowa State University,2019,Assault,43,,
+South & West of Iowa State University,2019,Vandalism,80,,
+South & West of Iowa State University,2020,Burglary,56,,
+South & West of Iowa State University,2020,Assault,38,,
+South & West of Iowa State University,2020,Vandalism,90,,
+South & West of Iowa State University,2021,Burglary,61,,
+South & West of Iowa State University,2021,Assault,53,,
+South & West of Iowa State University,2021,Vandalism,93,,
+South & West of Iowa State University,2022,Burglary,70,,
+South & West of Iowa State University,2022,Assault,40,,
+South & West of Iowa State University,2022,Vandalism,71,,
+Sawyer,2018,Burglary,77,40.696428,-91.3551517
+Sawyer,2018,Assault,58,40.696428,-91.3551517
+Sawyer,2018,Vandalism,107,40.696428,-91.3551517
+Sawyer,2019,Burglary,79,40.696428,-91.3551517
+Sawyer,2019,Assault,58,40.696428,-91.3551517
+Sawyer,2019,Vandalism,118,40.696428,-91.3551517
+Sawyer,2020,Burglary,89,40.696428,-91.3551517
+Sawyer,2020,Assault,69,40.696428,-91.3551517
+Sawyer,2020,Vandalism,102,40.696428,-91.3551517
+Sawyer,2021,Burglary,94,40.696428,-91.3551517
+Sawyer,2021,Assault,54,40.696428,-91.3551517
+Sawyer,2021,Vandalism,99,40.696428,-91.3551517
+Sawyer,2022,Burglary,111,40.696428,-91.3551517
+Sawyer,2022,Assault,77,40.696428,-91.3551517
+Sawyer,2022,Vandalism,103,40.696428,-91.3551517
+Sawyer West,2018,Burglary,73,,
+Sawyer West,2018,Assault,42,,
+Sawyer West,2018,Vandalism,92,,
+Sawyer West,2019,Burglary,70,,
+Sawyer West,2019,Assault,56,,
+Sawyer West,2019,Vandalism,96,,
+Sawyer West,2020,Burglary,65,,
+Sawyer West,2020,Assault,44,,
+Sawyer West,2020,Vandalism,96,,
+Sawyer West,2021,Burglary,91,,
+Sawyer West,2021,Assault,51,,
+Sawyer West,2021,Vandalism,89,,
+Sawyer West,2022,Burglary,69,,
+Sawyer West,2022,Assault,48,,
+Sawyer West,2022,Vandalism,87,,
+Somerset,2018,Burglary,59,41.5232108,-93.6093819
+Somerset,2018,Assault,54,41.5232108,-93.6093819
+Somerset,2018,Vandalism,101,41.5232108,-93.6093819
+Somerset,2019,Burglary,64,41.5232108,-93.6093819
+Somerset,2019,Assault,47,41.5232108,-93.6093819
+Somerset,2019,Vandalism,95,41.5232108,-93.6093819
+Somerset,2020,Burglary,89,41.5232108,-93.6093819
+Somerset,2020,Assault,57,41.5232108,-93.6093819
+Somerset,2020,Vandalism,76,41.5232108,-93.6093819
+Somerset,2021,Burglary,69,41.5232108,-93.6093819
+Somerset,2021,Assault,58,41.5232108,-93.6093819
+Somerset,2021,Vandalism,115,41.5232108,-93.6093819
+Somerset,2022,Burglary,83,41.5232108,-93.6093819
+Somerset,2022,Assault,61,41.5232108,-93.6093819
+Somerset,2022,Vandalism,107,41.5232108,-93.6093819
+Stone Brook,2018,Burglary,68,42.05917445,-93.63272991754228
+Stone Brook,2018,Assault,58,42.05917445,-93.63272991754228
+Stone Brook,2018,Vandalism,87,42.05917445,-93.63272991754228
+Stone Brook,2019,Burglary,60,42.05917445,-93.63272991754228
+Stone Brook,2019,Assault,43,42.05917445,-93.63272991754228
+Stone Brook,2019,Vandalism,96,42.05917445,-93.63272991754228
+Stone Brook,2020,Burglary,85,42.05917445,-93.63272991754228
+Stone Brook,2020,Assault,53,42.05917445,-93.63272991754228
+Stone Brook,2020,Vandalism,100,42.05917445,-93.63272991754228
+Stone Brook,2021,Burglary,88,42.05917445,-93.63272991754228
+Stone Brook,2021,Assault,61,42.05917445,-93.63272991754228
+Stone Brook,2021,Vandalism,91,42.05917445,-93.63272991754228
+Stone Brook,2022,Burglary,71,42.05917445,-93.63272991754228
+Stone Brook,2022,Assault,54,42.05917445,-93.63272991754228
+Stone Brook,2022,Vandalism,114,42.05917445,-93.63272991754228
+Timberland,2018,Burglary,106,40.8243018,-92.7468858
+Timberland,2018,Assault,92,40.8243018,-92.7468858
+Timberland,2018,Vandalism,121,40.8243018,-92.7468858
+Timberland,2019,Burglary,107,40.8243018,-92.7468858
+Timberland,2019,Assault,89,40.8243018,-92.7468858
+Timberland,2019,Vandalism,134,40.8243018,-92.7468858
+Timberland,2020,Burglary,104,40.8243018,-92.7468858
+Timberland,2020,Assault,71,40.8243018,-92.7468858
+Timberland,2020,Vandalism,133,40.8243018,-92.7468858
+Timberland,2021,Burglary,111,40.8243018,-92.7468858
+Timberland,2021,Assault,80,40.8243018,-92.7468858
+Timberland,2021,Vandalism,138,40.8243018,-92.7468858
+Timberland,2022,Burglary,115,40.8243018,-92.7468858
+Timberland,2022,Assault,99,40.8243018,-92.7468858
+Timberland,2022,Vandalism,165,40.8243018,-92.7468858
+Veenker,2018,Burglary,84,42.03862765,-93.65077659595696
+Veenker,2018,Assault,61,42.03862765,-93.65077659595696
+Veenker,2018,Vandalism,107,42.03862765,-93.65077659595696
+Veenker,2019,Burglary,74,42.03862765,-93.65077659595696
+Veenker,2019,Assault,58,42.03862765,-93.65077659595696
+Veenker,2019,Vandalism,83,42.03862765,-93.65077659595696
+Veenker,2020,Burglary,90,42.03862765,-93.65077659595696
+Veenker,2020,Assault,55,42.03862765,-93.65077659595696
+Veenker,2020,Vandalism,84,42.03862765,-93.65077659595696
+Veenker,2021,Burglary,76,42.03862765,-93.65077659595696
+Veenker,2021,Assault,49,42.03862765,-93.65077659595696
+Veenker,2021,Vandalism,103,42.03862765,-93.65077659595696
+Veenker,2022,Burglary,92,42.03862765,-93.65077659595696
+Veenker,2022,Assault,51,42.03862765,-93.65077659595696
+Veenker,2022,Vandalism,90,42.03862765,-93.65077659595696
